@@ -46,8 +46,6 @@ This guide assumes you have already set up a SageMaker Studio environment as des
 
 Note: Make sure you have the necessary permissions and quotas set up in your AWS account to use Amazon Bedrock and SageMaker services as described in the blog post.
 
-* TODO: Edit your repository description on GitHub
-
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
